@@ -1,0 +1,21 @@
+Run the code and enter desired value of n.
+The simulation will start for grid size 2 cross 2 to
+n cross n .
+
+Press Space Bar to pause the simulation
+
+First for a grid size of i cross i (2 =< i <= n) , simulation will run 
+following self avoiding rule , and when it gets completed the simulation
+will run for the same grid (with same size and starting , ending points ) .
+
+Press r key on keyboard to restart simulation on current grid size,
+with new starting and destination vertex .(This only works if the current simulation is
+the one following self avoiding rule , that is the prior one ).
+
+
+
+After simulation has ended that is drunker has reached its
+destination , press escape key to shift to the next simulation .
+If all the attempts are completed , escape key will close the 
+simulation window , hence indicating the programme ran successfuly
+and is completed .
